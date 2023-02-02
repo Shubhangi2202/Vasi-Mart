@@ -19,7 +19,7 @@
     if($count!="")
     {
     $_SESSION['login_username']=$magaca;
-	 header("location: Admin/dashboard.php");
+	 header("location: Admin/index.php");
     }
     else
     {
